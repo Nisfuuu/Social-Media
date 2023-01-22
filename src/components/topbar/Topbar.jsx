@@ -5,7 +5,7 @@ export default function Topbar() {
   return (
     <div className="topbarContainer">
       <div className="topbarLeft">
-        <span className="logo">SatelitSocial</span>
+        <span className="logo">Satelit_Social</span>
       </div>
       <div className="topbarCenter">
         <div className="searchbar">
